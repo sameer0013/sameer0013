@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there Sameer is here 👋
 
 <!--
 **sameer0013/sameer0013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.liveabout.com%2Ffunny-dog-gifs-4164897&psig=AOvVaw2R3Zg5QaGQH3uSlgDcJaq8&ust=1665133996544000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDP89Shy_oCFQAAAAAdAAAAABAe]
+ ![superdog](https://user-images.githubusercontent.com/101800541/194276020-19028f27-38af-4920-870c-8167b703f68a.gif)
+
+
+⚡ Fun fact: The majority of your brain is fat.
+
